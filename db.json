@@ -1,0 +1,41 @@
+{
+  "productlist": [
+    {
+      "productName": "Cell phone",
+      "category": "samsung",
+      "date": "2022-11-15T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 656,
+      "comment": "Best one",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "category": "Furit",
+      "date": "2022-11-01T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 43,
+      "comment": "Fresh",
+      "id": 2
+    },
+    {
+      "productName": "Led Tv",
+      "category": "Electronic",
+      "date": "2022-11-13T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 400,
+      "comment": "Best One",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
